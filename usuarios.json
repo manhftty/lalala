@@ -3,12 +3,12 @@
         "Nome": "admin",
         "Senha": "1234",
         "Permissao": "Administrador"
-		"Banido": false
+	"Banido": false
     },
     {
         "Nome": "maya",
         "Senha": "SK1DD",
         "Permissao": "Usuário"
-		"Banido": false
+	"Banido": false
     }
 ]
